@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="375" viewBox="0 0 700 375" role="img" aria-label="NORAT SPARK project card">
+    <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#331b4c"/><stop offset="1" stop-color="#090d20"/></linearGradient><linearGradient id="stroke" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#a267f1"/><stop offset="1" stop-color="#6a67d9"/></linearGradient><radialGradient id="g"><stop stop-color="#a267f1" stop-opacity=".4"/><stop offset="1" stop-color="#a267f1" stop-opacity="0"/></radialGradient></defs>
+    <rect width="700" height="375" rx="17" fill="url(#bg)"/><rect x="1" y="1" width="698" height="373" rx="16" fill="none" stroke="#8991ca" stroke-opacity=".27"/>
+    <circle cx="585" cy="175" r="190" fill="url(#g)"/><circle cx="590" cy="170" r="111" fill="none" stroke="#a267f1" stroke-opacity=".35" stroke-width="2"/><circle cx="590" cy="170" r="68" fill="none" stroke="#a267f1" stroke-opacity=".5" stroke-width="12"/><circle cx="590" cy="170" r="23" fill="#a267f1" opacity=".7"/>
+    <text x="35" y="51" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#c7b9ff">01 / FEATURED WORK</text>
+    <text x="35" y="132" font-family="Arial,sans-serif" font-size="42" font-weight="800" letter-spacing="-1" fill="#f6f7ff">NORAT SPARK</text>
+    <rect x="35" y="159" width="222" height="27" rx="4" fill="url(#stroke)" opacity=".75"/><text x="47" y="177" font-family="Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing=".7" fill="#ffffff">E-COMMERCE PLATFORM</text>
+    <text x="35" y="239" font-family="Arial,sans-serif" font-size="21" fill="#d6ddf6">An animated, responsive storefront</text>
+    <path d="M35 279H440" stroke="#b9b9d9" stroke-opacity=".25"/><text x="35" y="313" font-family="Arial,sans-serif" font-size="16" fill="#a8b3d8">Next.js  ·  TypeScript  ·  Tailwind</text>
+    </svg>
