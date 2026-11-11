@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="375" viewBox="0 0 700 375" role="img" aria-label="AI Motion Graphics and Creative Media project card">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14384a"/><stop offset="1" stop-color="#090d20"/></linearGradient><linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3d9fe6"/><stop offset="1" stop-color="#7b6aff"/></linearGradient><radialGradient id="g"><stop stop-color="#44bce6" stop-opacity=".32"/><stop offset="1" stop-color="#44bce6" stop-opacity="0"/></radialGradient></defs>
+<rect width="700" height="375" rx="17" fill="url(#bg)"/><rect x="1" y="1" width="698" height="373" rx="16" fill="none" stroke="#95b5d5" stroke-opacity=".28"/>
+<circle cx="570" cy="174" r="187" fill="url(#g)"/><rect x="494" y="95" width="153" height="152" rx="20" fill="#152438" stroke="#8eacf6" stroke-opacity=".66" stroke-width="2"/>
+<path d="M554 126 L607 171 L554 216Z" fill="url(#teal)"/><circle cx="571" cy="170" r="103" fill="none" stroke="#7cafe1" stroke-opacity=".26" stroke-width="3"/>
+<text x="35" y="51" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#9edfff">03 / CREATIVE WORK</text>
+<text x="35" y="125" font-family="Arial,sans-serif" font-size="39" font-weight="800" letter-spacing="-1" fill="#f6f7ff">CREATIVE MEDIA</text>
+<rect x="35" y="152" width="221" height="28" rx="5" fill="url(#teal)"/><text x="49" y="170" font-family="Arial,sans-serif" font-size="12" font-weight="bold" letter-spacing=".6" fill="#ffffff">AI + VIDEO PRODUCTION</text>
+<text x="35" y="237" font-family="Arial,sans-serif" font-size="20" fill="#d5e6f8">Visual stories for digital platforms</text>
+<path d="M35 280H440" stroke="#b9d5e9" stroke-opacity=".25"/><text x="35" y="313" font-family="Arial,sans-serif" font-size="16" fill="#a9bed8">Motion graphics  ·  Reels  ·  Film</text></svg>
