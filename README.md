@@ -35,26 +35,30 @@ I create responsive web products, explore AI-assisted motion graphics, produce s
 - Working with a news platform on digital content and news-oriented storytelling.
 - Refining headlines and shaping content for digital audiences.
 
-### 🚀 Selected Live Projects
+### 🚀 Selected Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/norat-spark.svg" alt="NORAT SPARK e-commerce project illustration" width="100%" />
-      <h3>NORAT SPARK</h3>
-      <p><b>Responsive E-Commerce Website</b><br/>Completed and currently live. Online storefront featuring product discovery, media-rich sections and shopping interactions.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Responsive UI</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/zelqovira.svg" alt="ZELQOVIRA AI SaaS project illustration" width="100%" />
-      <h3>ZELQOVIRA</h3>
-      <p><b>AI-Oriented SaaS Website</b><br/>Completed and currently live. Modern product interface with responsive layouts and dashboard-style experiences.</p>
-      <p><code>Next.js</code> <code>AI</code> <code>Dashboard UI</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://norat-spark.vercel.app/"><img src="assets/norat-spark.svg" width="100%" alt="NORAT SPARK e-commerce project" /></a>
+<h3>NORAT SPARK</h3>
+<p><b>E-Commerce Website</b></p>
+<p>A responsive online storefront featuring product discovery, media-rich sections and shopping interactions.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Responsive UI</code></p>
+<a href="https://norat-spark.vercel.app/"><img src="https://img.shields.io/badge/PROJECT_WEBSITE-D1FF64?style=for-the-badge&amp;logo=vercel&amp;logoColor=081015" alt="NORAT SPARK project website" /></a>
+</td>
+<td width="50%" valign="top">
+<img src="assets/zelqovira.svg" width="100%" alt="ZELQOVIRA AI SaaS project" />
+<h3>ZELQOVIRA</h3>
+<p><b>AI-Oriented SaaS Website</b></p>
+<p>A modern product interface with responsive layouts and dashboard-style experiences.</p>
+<p><code>Next.js</code> <code>AI</code> <code>Dashboard UI</code></p>
+<a href="https://abir230161.github.io/Abir-Portfolio/"><img src="https://img.shields.io/badge/MY_PORTFOLIO-252D47?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit Abir's portfolio" /></a>
+</td>
+</tr>
 </table>
 
-*Project visuals are illustrative designs, not screenshots. Some source repositories may be private.*
+<sub>Project images are illustrative, not screenshots. NORAT SPARK's website URL is listed as its GitHub repository homepage; current live availability has not been independently confirmed. No direct ZELQOVIRA demo link has been verified.</sub>
 
 ### 🎬 Creative Media Experience
 
@@ -72,7 +76,7 @@ Camera composition, shot planning, cinematic video capture and visual storytelli
 </tr>
 </table>
 
-### ⚡ Technologies & Tools
+### ⚡ Skills & Technologies
 
 <div align="center">
 
@@ -92,43 +96,49 @@ Camera composition, shot planning, cinematic video capture and visual storytelli
 
 **Other Tools:** Canva · Microsoft Word · Microsoft Excel
 
-### 📊 GitHub Overview
+### 📊 GitHub Activity
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/abir230161">
-  <img src="https://github-stats-extended.vercel.app/api?username=abir230161&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=D1FF64&amp;icon_color=9A80FF&amp;text_color=DCE4F7" alt="Live GitHub stats for abir230161" />
+<img src="https://github-stats-extended.vercel.app/api?username=abir230161&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0B1020&amp;title_color=D1FF64&amp;icon_color=9A80FF&amp;text_color=DCE4F7" width="100%" alt="Live GitHub statistics" />
 </a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/abir230161?tab=overview">
+<img src="https://streak-stats.demolab.com?user=abir230161&amp;theme=tokyonight&amp;hide_border=true&amp;background=0B1020&amp;ring=D1FF64&amp;fire=9A80FF&amp;currStreakLabel=D1FF64" width="100%" alt="GitHub contribution streak" />
+</a>
+</td>
+</tr>
+</table>
+
+<sub>These are external live cards. Private project activity may be absent, and external image services can temporarily fail.</sub>
 
 </div>
-
-> GitHub stats cards mainly reflect publicly visible activity. Private projects may not appear in repository and language totals.
 
 <details>
-<summary>Most-used languages in public repositories</summary>
+<summary><b>See extended contribution activity</b></summary>
+
+<br/>
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abir230161&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=D1FF64&amp;text_color=DCE4F7" alt="Top languages across public GitHub repositories" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abir230161&amp;bg_color=0B1020&amp;color=DCE4F7&amp;line=D1FF64&amp;point=9A80FF&amp;area=true&amp;area_color=443579&amp;hide_border=true" width="100%" alt="GitHub contribution graph" />
 </div>
-
-*This is an automated estimate from public repository data; private projects may be missing.*
 
 </details>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abir230161&amp;bg_color=0B1020&amp;color=DCE4F7&amp;line=D1FF64&amp;point=9A80FF&amp;area=true&amp;area_color=443579&amp;hide_border=true&amp;custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph for abir230161" width="100%" />
-
-</div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- This image is generated by the GitHub Actions workflow in .github/workflows/snake.yml. -->
-<img src="https://raw.githubusercontent.com/abir230161/abir230161/output/github-contribution-grid-snake.svg" alt="Animated snake traveling through Abir's contribution grid" width="100%" />
+<a href="https://github.com/abir230161?tab=overview">
+<img src="https://raw.githubusercontent.com/abir230161/abir230161/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+</a>
+
+<sub>Generated automatically by <code>.github/workflows/snake.yml</code>.</sub>
 
 </div>
 
@@ -148,6 +158,8 @@ Camera composition, shot planning, cinematic video capture and visual storytelli
 ### 🤝 Strengths
 
 Teamwork · Fast learning · Attention to detail · Creative thinking · Communication · Adaptability
+
+---
 
 ### 📫 Let's Connect
 
