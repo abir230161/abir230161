@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <a href="https://github.com/abir230161">
@@ -7,16 +8,35 @@
 <br/>
 
 <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2900&amp;pause=1100&amp;color=D1FF64&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=Web+Developer+%7C+Creative+Media;Next.js+%7C+React+%7C+TypeScript;AI+Motion+Graphics+%7C+Short-Form+Video;Cinematography+%7C+Visual+Storytelling" alt="Animated typing: Web Developer, Creative Media, AI Motion Graphics and Cinematography" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2900&amp;pause=1100&amp;color=D1FF64&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=Web+Developer+%7C+Creative+Media;Next.js+%7C+React+%7C+TypeScript;AI+Motion+Graphics+%7C+Short-Form+Video;Cinematography+%7C+Visual+Storytelling"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2900&amp;pause=1100&amp;color=5B21B6&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=Web+Developer+%7C+Creative+Media;Next.js+%7C+React+%7C+TypeScript;AI+Motion+Graphics+%7C+Short-Form+Video;Cinematography+%7C+Visual+Storytelling"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2900&amp;pause=1100&amp;color=5B21B6&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=Web+Developer+%7C+Creative+Media;Next.js+%7C+React+%7C+TypeScript;AI+Motion+Graphics+%7C+Short-Form+Video;Cinematography+%7C+Visual+Storytelling"
+      alt="Animated typing: Web Developer, Creative Media, AI Motion Graphics and Cinematography"
+    />
+  </picture>
 </a>
 
 ### Web Developer &nbsp;·&nbsp; Creative Media &nbsp;·&nbsp; CSE Undergraduate
 
 *Building responsive web experiences and telling stories through digital visuals.*
 
-<a href="https://abirahammed.pythonanywhere.com/"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-D1FF64?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=081015" alt="Visit my portfolio" /></a>
-<a href="mailto:abirrohitahmed@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-242B45?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact by email" /></a>
-<a href="https://github.com/abir230161"><img src="https://img.shields.io/badge/GITHUB-171B2E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://abirahammed.pythonanywhere.com/">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-D1FF64?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=081015" alt="Visit my portfolio" />
+</a>
+<a href="https://wa.me/8801921123184">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2B8801921123184-075E54?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Contact me on WhatsApp" />
+</a>
+<a href="https://www.linkedin.com/in/abir-ahammed-dev/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with me on LinkedIn" />
+</a>
 
 </div>
 
@@ -40,20 +60,46 @@ I create responsive web products, explore AI-assisted motion graphics, produce s
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://norat-spark.vercel.app/"><img src="assets/norat-spark.svg" width="100%" alt="NORAT SPARK e-commerce project" /></a>
+
+<a href="https://norat-spark.vercel.app/">
+<img src="assets/norat-spark.svg" width="100%" alt="NORAT SPARK e-commerce project" />
+</a>
+
 <h3>NORAT SPARK</h3>
 <p><b>E-Commerce Website</b></p>
+
 <p>A responsive online storefront featuring product discovery, media-rich sections and shopping interactions.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Responsive UI</code></p>
-<a href="https://norat-spark.vercel.app/"><img src="https://img.shields.io/badge/PROJECT_WEBSITE-D1FF64?style=for-the-badge&amp;logo=vercel&amp;logoColor=081015" alt="NORAT SPARK project website" /></a>
+
+<p>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Responsive UI</code>
+</p>
+
+<a href="https://norat-spark.vercel.app/">
+<img src="https://img.shields.io/badge/PROJECT_WEBSITE-D1FF64?style=for-the-badge&amp;logo=vercel&amp;logoColor=081015" alt="NORAT SPARK project website" />
+</a>
+
 </td>
 <td width="50%" valign="top">
+
 <img src="assets/zelqovira.svg" width="100%" alt="ZELQOVIRA AI SaaS project" />
+
 <h3>ZELQOVIRA</h3>
 <p><b>AI-Oriented SaaS Website</b></p>
+
 <p>A modern product interface with responsive layouts and dashboard-style experiences.</p>
-<p><code>Next.js</code> <code>AI</code> <code>Dashboard UI</code></p>
-<a href="https://abir230161.github.io/Abir-Portfolio/"><img src="https://img.shields.io/badge/MY_PORTFOLIO-252D47?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit Abir's portfolio" /></a>
+
+<p>
+<code>Next.js</code>
+<code>AI</code>
+<code>Dashboard UI</code>
+</p>
+
+<a href="https://abirahammed.pythonanywhere.com/">
+<img src="https://img.shields.io/badge/MY_PORTFOLIO-252D47?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit Abir's portfolio" />
+</a>
+
 </td>
 </tr>
 </table>
@@ -64,14 +110,22 @@ I create responsive web products, explore AI-assisted motion graphics, produce s
 
 <table>
 <tr>
-<td width="40%" valign="top"><img src="assets/creative-media.svg" alt="Creative media and motion graphics illustration" width="100%" /></td>
+<td width="40%" valign="top">
+
+<img src="assets/creative-media.svg" alt="Creative media and motion graphics illustration" width="100%" />
+
+</td>
 <td valign="top">
+
 <b>AI Motion Graphics & Video Creation</b><br/>
 AI-assisted visual production and motion-graphics projects.<br/><br/>
+
 <b>Facebook Reels & Short-Form Content</b><br/>
 Social-first videos focused on cuts, pacing, engaging visuals and storytelling.<br/><br/>
+
 <b>Cinematography</b><br/>
 Camera composition, shot planning, cinematic video capture and visual storytelling.
+
 </td>
 </tr>
 </table>
@@ -103,14 +157,18 @@ Camera composition, shot planning, cinematic video capture and visual storytelli
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
+
 <a href="https://github.com/abir230161">
 <img src="https://github-stats-extended.vercel.app/api?username=abir230161&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0B1020&amp;title_color=D1FF64&amp;icon_color=9A80FF&amp;text_color=DCE4F7" width="100%" alt="Live GitHub statistics" />
 </a>
+
 </td>
 <td width="50%" align="center" valign="top">
+
 <a href="https://github.com/abir230161?tab=overview">
 <img src="https://streak-stats.demolab.com?user=abir230161&amp;theme=tokyonight&amp;hide_border=true&amp;background=0B1020&amp;ring=D1FF64&amp;fire=9A80FF&amp;currStreakLabel=D1FF64" width="100%" alt="GitHub contribution streak" />
 </a>
+
 </td>
 </tr>
 </table>
@@ -125,7 +183,9 @@ Camera composition, shot planning, cinematic video capture and visual storytelli
 <br/>
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abir230161&amp;bg_color=0B1020&amp;color=DCE4F7&amp;line=D1FF64&amp;point=9A80FF&amp;area=true&amp;area_color=443579&amp;hide_border=true" width="100%" alt="GitHub contribution graph" />
+
 </div>
 
 </details>
@@ -165,9 +225,9 @@ Teamwork · Fast learning · Attention to detail · Creative thinking · Communi
 
 Interested in web development, creative media or a new collaboration? Feel free to reach out.
 
-- **Portfolio:** [abirahammed.pythonanywhere.com/](https://abirahammed.pythonanywhere.com/)
-- **Email:** [abirrohitahmed@gmail.com](mailto:abirrohitahmed@gmail.com)
-- **GitHub:** [@abir230161](https://github.com/abir230161)
+- **Portfolio:** [abirahammed.pythonanywhere.com](https://abirahammed.pythonanywhere.com/)
+- **WhatsApp:** [+880 1921 123184](https://wa.me/8801921123184)
+- **LinkedIn:** [Abir Ahammed](https://www.linkedin.com/in/abir-ahammed-dev/)
 
 <div align="center">
 
