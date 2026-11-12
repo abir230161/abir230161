@@ -14,7 +14,7 @@
 
 *Building responsive web experiences and telling stories through digital visuals.*
 
-<a href="https://abir230161.github.io/Abir-Portfolio/"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-D1FF64?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=081015" alt="Visit my portfolio" /></a>
+<a href="https://abirahammed.pythonanywhere.com/"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-D1FF64?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=081015" alt="Visit my portfolio" /></a>
 <a href="mailto:abirrohitahmed@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-242B45?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact by email" /></a>
 <a href="https://github.com/abir230161"><img src="https://img.shields.io/badge/GITHUB-171B2E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 
@@ -165,7 +165,7 @@ Teamwork · Fast learning · Attention to detail · Creative thinking · Communi
 
 Interested in web development, creative media or a new collaboration? Feel free to reach out.
 
-- **Portfolio:** [abir230161.github.io/Abir-Portfolio](https://abir230161.github.io/Abir-Portfolio/)
+- **Portfolio:** [abirahammed.pythonanywhere.com/](https://abirahammed.pythonanywhere.com/)
 - **Email:** [abirrohitahmed@gmail.com](mailto:abirrohitahmed@gmail.com)
 - **GitHub:** [@abir230161](https://github.com/abir230161)
 
